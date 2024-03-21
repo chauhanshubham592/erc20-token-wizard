@@ -1,0 +1,1 @@
+export { NoPageIllustration } from "./NoPageIllustration";

@@ -1,0 +1,1 @@
+export { PrimaryTitle } from "./PrimaryTitle";
